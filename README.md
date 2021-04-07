@@ -1,6 +1,6 @@
 # gesture_volume_control
 
-We can increase or decrease the PC sound by hand gesture.
+We can increase or decrease the PC sound by hand gesture. The main file you have to run is "volume_hand_control.py"
 
 Libraries needed:-
 1. Opencv
